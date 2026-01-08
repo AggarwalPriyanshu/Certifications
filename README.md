@@ -14,6 +14,8 @@ It highlights my learning journey across **Generative AI, Semiconductor Technolo
 
 ## 📂 Repository Structure
 
+```
+
 CERTIFICATIONS/
 │
 ├── ELECTRICAL & VLSI CERTIFICATIONS/
@@ -37,7 +39,7 @@ CERTIFICATIONS/
 │   ├── PRIYANSHU_RIDEHACK_24.png
 │   └── SCIENCE EXHIBITION_ZONAL LEVEL.jpg
 
-
+```
 
 ---
 
@@ -81,7 +83,4 @@ Electronics & Communication Engineering
 🔗 LinkedIn: https://linkedin.com/in/priyanshu1201  
 💻 GitHub: https://github.com/AggarwalPriyanshu  
 
----
-
-⭐ If you find this repository useful, feel free to star it!
 
